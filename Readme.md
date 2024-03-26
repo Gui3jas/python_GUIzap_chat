@@ -9,9 +9,10 @@ A ideia é que seja de fato um chat ao vivo, então só quem está ali na hora v
 
 Para isso foi necessário criar um site e criar o chat dentro do site. 
 
-Framework - Flet
 
 Bibliotecas necessárias:
+
+Flet
 
 Flask - https://flask.palletsprojects.com/en/2.3.x/
 
